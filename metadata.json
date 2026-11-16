@@ -1,0 +1,7 @@
+{
+  "name": "Your Phone Knows More Than You Think",
+  "description": "An interactive science museum exhibit created by Grade 9 & 10 students exploring the hidden sensors, processors, and wireless tech inside smartphones.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
